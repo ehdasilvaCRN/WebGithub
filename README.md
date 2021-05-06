@@ -3,6 +3,7 @@
     <meta charset="utf-8">
     <meta lang="es">
     <meta name="EDU">
+    <meta name="viewport" content="width=device-width"/>
     <title>Actividades</title>
     <link rel="stylesheet" href="estils.css">
   </head>
