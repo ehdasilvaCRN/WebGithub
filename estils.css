@@ -1,5 +1,5 @@
 body{
-background-image: url(menu github/imagenes/marioclouds.gif);
+background-image: url(imagenes/marioclouds.gif);
 background-size: 1950px;
 
 
@@ -77,9 +77,6 @@ width: 200px;
 
 }
 
-
-
-
 #nube {
 margin-top: 580px;
 transform: rotateY(180deg);
@@ -94,6 +91,4 @@ margin-top: -150px;
 width: 100px;
 margin-left: 1550px;
 position: fixed;
-
-
 }
