@@ -1,8 +1,16 @@
-body {
-background-image: url(imagenes/marioclouds.gif);
+body{
+background-image: url(/imagenes/marioclouds.gif);
+background-size: 1950px;
+
+
 }
 
-#titulo {
+
+
+
+
+
+#titulo{
 
   font-size: 100px;
   font-style: italic;
@@ -11,9 +19,19 @@ background-image: url(imagenes/marioclouds.gif);
   text-decoration:  underline;
   -webkit-text-stroke: #72B527 2px;
   text-align: center;
+
+
+
+
 }
 
-.cuadros {
+
+
+
+
+
+.cuadros{
+
   position: relative;
   animation-name: cuadros;
   animation-duration: 4s;
@@ -24,8 +42,9 @@ background-image: url(imagenes/marioclouds.gif);
   background-color: orange;
   float: left;
   margin: 90px;
-}
 
+
+}
 p {
   font-size: 50px;
   text-align: center;
@@ -36,7 +55,10 @@ color: white;
 transform: rotate(360deg);
 transition: 1s;
 width: 200px;
+
+
 }
+
 
 @keyframes cuadros {
   0%   {width: 200px; height: 200px; left:0px; top:100px; transform: rotateX(0deg); transform: rotateY(0deg);}
@@ -52,11 +74,16 @@ width: 200px;
   50%  { left:300px; top:50px; }
   75%  { left:500px; top:25px;}
   100% {left:0px; top:0px;}
+
 }
+
+
+
 
 #nube {
 margin-top: 580px;
 transform: rotateY(180deg);
+
 position: fixed;
 animation-name: nube;
 animation-duration: 5s;
@@ -67,4 +94,6 @@ margin-top: -150px;
 width: 100px;
 margin-left: 1550px;
 position: fixed;
+
+
 }
