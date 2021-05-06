@@ -36,7 +36,7 @@
 
 
  <div id="nube">
-   <a><img url(menu github/imagenes/nube.gif)></a>
+   <a><url(menu github/imagenes/nube.gif)></a>
 
  </div>
 
