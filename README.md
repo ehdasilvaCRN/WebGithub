@@ -9,7 +9,7 @@
   <body>
 
     <div id="shenron">
-      <img url(menu github/imagenes/shenron.png>
+      <url(imagenes/shenron.png)>
       </div>
 
 
