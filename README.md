@@ -9,7 +9,7 @@
   <body>
 
     <div id="shenron">
-      <img url(menu github/imagenes/shenron.png">
+      <img url(menu github/imagenes/shenron.png>
       </div>
 
 
@@ -36,7 +36,7 @@
 
 
  <div id="nube">
-   <a><img url("menu github/imagenes/nube.gif"></a>
+   <a><img url(menu github/imagenes/nube.gif></a>
 
  </div>
 
