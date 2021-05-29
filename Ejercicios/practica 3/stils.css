@@ -1,0 +1,71 @@
+h1 {
+    margin: 0;
+    width: 350px;
+    text-align: center;
+
+  }
+  p {
+    color: #666;
+    line-height: 22px;
+    width: 350px;
+    margin-left: 25px;
+  }
+#menú {
+  height: 40px;
+  background-color: #FFF;
+
+}
+
+#coneixfeedly {
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(img/img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+}
+
+#totenunsolloc {
+  height: 641px;
+  background-color: #FFF;
+  background-image: url(img/allinone.jpg);
+  background-repeat: no-repeat;
+  background-position: 400px;
+
+}
+
+#útil {
+  height: 500px;
+  background-color: #333333;
+  background-image: url(img/curator-short.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+}
+
+#ràpid {
+  height: 550px;
+  background-color: #EEECEE;
+  background-image: url(img/img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+}
+
+#Fàcil {
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(img/mobile-share.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+}
+
+#Atotarreu {
+  height: 643px;
+  background-color: #EEECEE;
+  background-image: url(img/anywhere.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+}
+
+#Canvia {
+  height: 200px;
+  background-color: #333333;
+}
