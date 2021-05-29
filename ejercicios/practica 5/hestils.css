@@ -1,0 +1,45 @@
+body {
+  background-color: cyan;
+}
+
+#contenidor {
+  background-color: white;
+  position: absolute;
+  left: 25px; right: 25px; top: 25px; bottom: 0px;
+}
+
+h1 {
+  text-align:center;
+  margin: 0px;
+}
+
+.f1 {
+  float: left;
+  margin: 10px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.p1 {
+  margin-top: 25px;
+  float: left;
+}
+
+.p1centrado {
+  text-align: center;
+}
+
+.p2 {
+  text-align: center;
+  float: none;
+}
+
+.f2 {
+    float: right;
+
+}
+
+#texto {
+
+  text-align; left;
+}
