@@ -1,0 +1,68 @@
+
+
+body {
+
+background-color: purple;
+}
+
+
+
+div {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  padding: 3px;
+  margin: 3px;
+  font-size: 25px;
+  font-family: impact;
+  text-align: center;
+}
+
+#one{
+  background-color: grey;
+  font-size: 35px;  margin-left: 25px;
+    margin-top: 30px;
+}
+
+#two{
+  background-color: cyan;
+  font-size: 35px;
+  margin-left: 25px;
+  margin-top: 30px;
+}
+#three{
+  background-color: orange;
+  font-size: 35px;
+  margin-left: 25px;
+  margin-top: 30px;
+}
+#four{
+  background-color: green;
+  font-size: 35px;  margin-left: 25px;
+    margin-top: 20px;
+}
+#five{
+  background-color: yellow;
+  font-size: 35px;  margin-left: 59px;
+    margin-top: 12px;
+}
+#six{
+  background-color: white;
+  font-size: 35px;  margin-left: 41px;
+    margin-top: 10px;
+}
+#seven{
+  background-color: brown;
+  font-size: 35px;  margin-left: 25px;
+    margin-top: 30px;
+}
+#eight{
+  background-color: red;
+  font-size: 35px;  margin-left: 40px;
+    margin-top: 50px;
+}
+
+
+
+
+</style>
